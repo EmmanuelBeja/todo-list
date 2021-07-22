@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Walk the dog",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "text": "Write app",
+      "complete": true
+    }
+  ]
+}
